@@ -10,7 +10,7 @@ class MyStuff(object):
 	def __init__(self):
 		self.me = "Hi Neal"
 	def apple(self):
-		print("Steve Jobs would be proud of me")
+		print("Steve Jobs would be proud of me!")
 
 blah=MyStuff()
 
